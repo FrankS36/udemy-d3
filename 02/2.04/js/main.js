@@ -5,7 +5,7 @@
 */
 
 const svg = d3.select("#chart-area").append("svg")
-  .attr("width", 400)
+  .attr("width", 600)
   .attr("height", 400)
 
 svg.append("circle")
